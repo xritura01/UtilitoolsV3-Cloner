@@ -3,3 +3,5 @@ urllib3
 colorama
 pystyle
 discord.py
+tls-client
+
