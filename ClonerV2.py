@@ -661,9 +661,8 @@ class UtilityClonerMenu:
         clear()
         self._print_banner()
         lines = [
-            "Discord ~ discord.gg/utilitytools",
-            "Owner & Dev ~ xritura01",
-            "UI ~ resil1x",
+            "website ~ https://www.utilitytoolsv2.store",
+            "Owner & Dev ~ xritura01 ( not on discord )",
             "Thank you for using our script!",
             "Hope you have a nice day!"
         ]
